@@ -1,0 +1,82 @@
+h1 {
+    background-color: rgb(65, 64, 73);
+    font-size:35px;
+    text-align: center;
+    font-family:"trade winds";
+    color:rgb(24, 2, 2);
+}
+
+h2 {
+    background-color: rgb(65, 64, 73);
+    color: rgb(23, 2, 2);
+    font-family: "metal mania";
+    font-size: 30px;
+}
+
+.ldiferent {
+    font-family: "metal mania";
+    color: rgb(106, 111, 110);
+}
+
+ul { 
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+    color: rgb(106, 111, 110);
+    font-size: 20px;
+}
+
+ol {
+    color: rgb(106, 111, 110);
+    font-size: 20px;
+}
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */ 
+    align-items: center; /* Centra verticalmente */ 
+    height: 30vh; /* Hace que el contenedor ocupe el 100% del alto de la ventana */ 
+    margin: 0;
+    background-color: rgba(62, 65, 65, 0.159);
+    
+}
+
+.espacio {
+    height: 20vh; 
+    margin: 0;
+}
+
+footer {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(59, 78, 78);
+    font-size: 18px;
+}
+
+#instagram {
+    width:15px;
+    height: 15px;
+    top: 996px;
+    left: 772px;
+}
+
+#in {
+    width: 15px;
+    height: 15px;
+    top: 996px;
+    left: 818px;
+}
+
+.sep {
+    margin-left: 99px;
+}
+
+.sep2 {
+    margin-left: 91px;
+}
